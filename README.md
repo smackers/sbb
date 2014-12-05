@@ -6,4 +6,4 @@ In general, the benchmarks labeled with `true` in their name should trigger no a
 
 To generate the current version of SMACK Boogie Benchmarks we used:
 - SV-COMP 2015 benchmarks
-- SMACK (changeset )
+- SMACK (changeset [8f9f0f97804e](https://github.com/smackers/smack/tree/8f9f0f97804eb461ac2397403f5e128578ba15a2))
